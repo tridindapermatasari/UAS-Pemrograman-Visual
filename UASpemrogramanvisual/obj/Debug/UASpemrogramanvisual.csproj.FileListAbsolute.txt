@@ -1,0 +1,7 @@
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\obj\Debug\UASpemrogramanvisual.csprojResolveAssemblyReference.cache
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\obj\Debug\UASpemrogramanvisual.MainForm.resources
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\obj\Debug\UASpemrogramanvisual.csproj.GenerateResource.Cache
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\bin\Debug\UASpemrogramanvisual.exe
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\bin\Debug\UASpemrogramanvisual.pdb
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\obj\Debug\UASpemrogramanvisual.exe
+D:\C#\UASpemrogramanvisual\UASpemrogramanvisual\obj\Debug\UASpemrogramanvisual.pdb
